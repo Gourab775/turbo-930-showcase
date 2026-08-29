@@ -2,7 +2,7 @@
 
 Interactive automotive showcase for the 1975 Porsche 930 Turbo. A scroll-driven narrative experience that blends WebGL, motion design, and editorial storytelling to present an iconic air-cooled legend.
 
-Live Demo: `https://gourab775.github.io/3d-car-scroll-website` (GitHub Pages) · Category: Interactive Website / Automotive 3D · Stack: Three.js, Vanilla JS, CSS
+Live Demo: `https://3d-car-scroll-website-chi.vercel.app` · Category: Interactive Website / Automotive 3D · Stack: Three.js, Vanilla JS, CSS
 
 ---
 
