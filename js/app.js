@@ -239,11 +239,11 @@ buildControls();
 
 // ── SCENE SETTINGS ──────────────────────────────
 const sceneDefaults = {
-  exposure: 3.0, keyIntensity: 1.0,
+  exposure: 3, keyIntensity: 1,
   keyColorR: 255, keyColorG: 149, keyColorB: 0,
-  rimIntensity: 0.0,
+  rimIntensity: 0,
   rimColorR: 255, rimColorG: 69, rimColorB: 0,
-  hdrIntensity: 1.19, envRotation: 0.0,
+  hdrIntensity: 0.13, envRotation: 0,
 };
 
 let sceneValues = { ...sceneDefaults };
